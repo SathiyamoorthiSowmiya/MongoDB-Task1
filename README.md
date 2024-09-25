@@ -1,0 +1,1 @@
+This document provides a series of MongoDB queries used to perform various operations on a product collection. Each query serves a specific purpose, such as finding products based on certain criteria, retrieving specific fields, or deleting documents.
